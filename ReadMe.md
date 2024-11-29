@@ -1,1 +1,1 @@
-This project is to practice DSA.
+Practicing DSA.
